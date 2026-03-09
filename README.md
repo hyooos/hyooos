@@ -12,7 +12,7 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 **Dongduk Women's University**
 
 - B.S. — **Data Science**
-- Double Major — **Business Administration** | (2024.03 – Present)
+- Double Major — **Business Administration**  Mar 2024 – Present
 
 ## 🚀 Activities
 
