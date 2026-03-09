@@ -22,7 +22,7 @@ Mar 2024 – Present
 ### 🚀 Activities
 
 * **Multimodal Signal Processing Lab** — Undergraduate Researcher | (2026.03-present)
-* **BITAmin (AI Association)** — 16th Staff | (2025.07-2026.07)
+* **BITAmin (AI Club)** — 16th Staff | (2025.07-2026.07)
 
 <hr>
 
