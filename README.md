@@ -1,23 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5bc0de,100:3b82f6&height=160&section=header"/>
 
-## Hi there, I'm hyowon 👋
+## Hi there, I'm Hyowon 👋
 
-I'm an undergraduate student majoring in **Data Science**, currently learning and exploring various areas of AI and data analysis.
+I'm an undergraduate student majoring in **Data Science**, currently learning and exploring various areas of **AI and data analysis**.
 
 - Interested in **Financial Time Series** and **Machine Learning**
-- Currently learning and building projects in **Data Science and AI**
+- Currently studying and building projects in **Data Science and AI**
 
 ## 📚 Education
 
 **Dongduk Women's University**
 
-- B.S. — **Data Science**
-- Double Major — **Business Administration**  Mar 2024 – Present
+- B.S. in **Data Science**
+- Double Major in **Business Administration** | (Mar 2024 – Present)
 
 ## 🚀 Activities
 
-- **Multimodal Signal Processing Lab** — Undergraduate Researcher | (2026.03 – Present)
-- **BITAmin (AI Club)** — 16th Staff | (2025.07 – 2026.07)
+- **Multimodal Signal Processing Lab** — Undergraduate Researcher | (Mar 2026 – Present)
+- **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Jul 2026)
 
 ## 🛠 Technical Skills
 
@@ -47,6 +47,6 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 
 ## 🐾 GitAnimals
 
-<img src="https://render.gitanimals.org/farms/hyooos" width="350"/>
+<img src="https://render.gitanimals.org/farms/hyooos" width="320" style="margin-top:8px;"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5bc0de,100:3b82f6&height=120&section=footer"/>
