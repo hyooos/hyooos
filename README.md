@@ -18,6 +18,7 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 
 - **Multimodal Signal Processing Lab** — Research Intern | (Mar 2026 – Present)
 - **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Jul 2026)
+- **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 - present)
 
 ## 🛠 Technical Skills
 
