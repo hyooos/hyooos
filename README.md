@@ -7,20 +7,20 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 - Interested in **Financial Time Series** and **Machine Learning**
 - Currently studying and building projects in **Data Science and AI**
 
-## 📚 Education
+## Education
 
 **Dongduk Women's University**
 
 - B.S. in **Data Science**
 - Double Major in **Business Administration** | (Mar 2024 – Present)
 
-## 🚀 Activities
+## Activities
 
 - **Multimodal Signal Processing Lab** — Research Intern | (Mar 2026 – Present)
 - **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – present)
 - **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 - present)
 
-## 🛠 Technical Skills
+## Technical Skills
 
 #### Languages
 
@@ -37,7 +37,7 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-## 📫 Contact
+## Contact
 
 <a href="mailto:hyooowon0312@naver.com">
 <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=mail.ru&logoColor=white"/>
