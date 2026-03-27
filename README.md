@@ -7,14 +7,14 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 - Interested in **Financial Time Series** and **Machine Learning**
 - Currently studying and building projects in **Data Science and AI**
 
-## 📚 Education
+## 📑 Education
 
 **Dongduk Women's University**
 
 - B.S. in **Data Science**
 - Double Major in **Business Administration** | (Mar 2024 – Present)
 
-## 🚀 Activities
+## 📊 Activities
 
 - **Multimodal Signal Processing Lab** — Research Intern | (Mar 2026 – Present)
 - **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – present)
