@@ -35,7 +35,8 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 
 #### Platform
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?tyle=flat&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ## 📫 Contact
 
