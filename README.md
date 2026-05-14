@@ -7,6 +7,8 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 - Interested in **Financial Time Series** and **Machine Learning**
 - Currently studying and building projects in **Data Science and AI**
 
+Please feel free to contact me at hyooowon0312@naver.com
+
 ## 📑 Education
 
 **Dongduk Women's University**
@@ -17,8 +19,9 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 ## 📊 Activities
 
 - **Multimodal Signal Processing Lab** — Research Intern | (Mar 2026 – Present)
-- **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – present)
-- **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 - present)
+- **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Present)
+- **KT K.I.T Supporters** — Planning Team | (May 2026 – Present)
+- **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 – Present)
 
 ## 🛠 Technical Skills
 
@@ -28,21 +31,20 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-#### Development Tools
+#### Tools
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 #### Platform
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?tyle=flat&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📫 Contact
-
-<a href="mailto:hyooowon0312@naver.com">
-<img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=mail.ru&logoColor=white"/>
-</a>
 
 ## 🐾 GitAnimals
 
