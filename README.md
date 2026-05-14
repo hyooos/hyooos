@@ -9,21 +9,21 @@ I'm an undergraduate student majoring in **Data Science**, currently learning an
 
 Please feel free to contact me at hyooowon0312@naver.com
 
-## 📑 Education
+## Education
 
 **Dongduk Women's University**
 
 - B.S. in **Data Science**
 - Double Major in **Business Administration** | (Mar 2024 – Present)
 
-## 📊 Activities
+## Activities
 
 - **Multimodal Signal Processing Lab** — Research Intern | (Mar 2026 – Present)
 - **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Present)
 - **KT K.I.T Supporters** — Planning Team | (May 2026 – Present)
 - **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 – Present)
 
-## 🛠 Technical Skills
+## Technical Skills
 
 #### Languages
 
@@ -46,7 +46,7 @@ Please feel free to contact me at hyooowon0312@naver.com
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
-## 🐾 GitAnimals
+## GitAnimals
 
 <img src="https://render.gitanimals.org/farms/hyooos" width="320" style="margin-top:8px;"/>
 
