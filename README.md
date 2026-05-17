@@ -22,6 +22,7 @@ Please feel free to contact me at hyooowon0312@naver.com
 - **KT K.I.T Supporters** — Planning Team | (May 2026 – Present)
 - **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 – Present)
 - **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Present)
+- **Korean Standards Association (KSA)** — ESG & ISO Certification Intern | (Jul 2025 – Aug 2025)
 - **KB La School** — 5th Cohort High School Senior Mentor | (Apr 2025 – Feb 2026)
 
 ## Awards & Certifications
