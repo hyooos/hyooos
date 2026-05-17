@@ -25,10 +25,10 @@ Please feel free to contact me at hyooowon0312@naver.com
 
 ## Awards & Certifications
 
-- Bronze Prize — 3rd VR/AR Intellectual Property Idea Contest  
-  (Dongduk Women’s University New Industry Intellectual Property Project Group)
-- NVIDIA Certificate of Competency  
-  Introduction to Transformer-Based Natural Language Processing (2025)
+- Bronze Prize — 3rd VR/AR Intellectual Property Idea Contest (2024)  
+  Dongduk Women’s University New Industry Intellectual Property Project Group
+
+- NVIDIA Certificate of Competency — Introduction to Transformer-Based Natural Language Processing (2025)
 
 ## Technical Skills
 
