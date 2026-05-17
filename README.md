@@ -23,6 +23,13 @@ Please feel free to contact me at hyooowon0312@naver.com
 - **KT K.I.T Supporters** — Planning Team | (May 2026 – Present)
 - **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 – Present)
 
+## Awards & Certifications
+
+- Bronze Prize — 3rd VR/AR Intellectual Property Idea Contest  
+  (Dongduk Women’s University New Industry Intellectual Property Project Group)
+- NVIDIA Certificate of Competency  
+  Introduction to Transformer-Based Natural Language Processing (2025)
+
 ## Technical Skills
 
 #### Languages
