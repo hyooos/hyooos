@@ -19,16 +19,17 @@ Please feel free to contact me at hyooowon0312@naver.com
 ## Activities
 
 - **Multimodal Signal Processing Lab** — Research Intern | (Mar 2026 – Present)
-- **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Present)
 - **KT K.I.T Supporters** — Planning Team | (May 2026 – Present)
 - **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 – Present)
+- **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Present)
+- **KB La School** — 5th Cohort High School Senior Mentor | (Apr 2025 – Feb 2026)
 
 ## Awards & Certifications
 
+- NVIDIA Certificate of Competency — Introduction to Transformer-Based Natural Language Processing (2025)
+
 - Bronze Prize — 3rd VR/AR Intellectual Property Idea Contest (2024)  
   Dongduk Women’s University New Industry Intellectual Property Project Group
-
-- NVIDIA Certificate of Competency — Introduction to Transformer-Based Natural Language Processing (2025)
 
 ## Technical Skills
 
