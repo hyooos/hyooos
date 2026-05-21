@@ -55,7 +55,12 @@ Please feel free to contact me at hyooowon0312@naver.com
 
 
 ## GitAnimals
-
-<img src="https://render.gitanimals.org/farms/hyooos?6" width="500"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyooos&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/hyooos?0"
+    width="600"
+    height="300"
+  />
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5bc0de,100:3b82f6&height=120&section=footer"/>
