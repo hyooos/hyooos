@@ -24,6 +24,8 @@ Please feel free to contact me at hyooowon0312@naver.com
 - **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Present)
 - **Korean Standards Association (KSA)** — Standard Certification Education Center Intern | (Jul 2025 – Aug 2025)
 - **KB La School** — 5th Cohort High School Senior Mentor | (Apr 2025 – Feb 2026)
+- **Early Pay Supporters** — Supporter | (Sep 2024 – Nov 2024)
+- **Korea Invention Promotion Association (KIPA)** — Intellectual Property Summer School | (Jun 2024)
 
 ## Awards & Certifications
 
