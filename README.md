@@ -21,7 +21,7 @@ Please feel free to contact me at hyooowon0312@naver.com
 - **Multimodal Signal Processing Lab** — Research Intern | (Mar 2026 – Present)
 - **KT K.I.T Supporters** — Planning Team | (May 2026 – Present)
 - **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 – Present)
-- **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Present)
+- **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Aug 2026)
 - **Korean Standards Association (KSA)** — Standard Certification Education Center Intern | (Jul 2025 – Aug 2025)
 - **KB La School** — 5th Cohort High School Senior Mentor | (Apr 2025 – Feb 2026)
 - **Early Pay Supporters** | (Sep 2024 – Nov 2024)
