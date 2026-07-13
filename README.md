@@ -19,7 +19,7 @@ Please feel free to contact me at hyooowon0312@naver.com
 ## Activities
 
 - **Multimodal Signal Processing Lab** — Research Intern | (Mar 2026 – Present)
-- **BOAZ** — 27th Staff | (Jul 2026 – Present)
+- **BOAZ (AI Club)** — 27th Staff | (Jul 2026 – Present)
 - **KT K.I.T Supporters** — Planning Team | (May 2026 – Present)
 - **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 – Present)
 - **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Aug 2026)
