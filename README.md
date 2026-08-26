@@ -20,7 +20,8 @@ Please feel free to contact me at hyooowon0312@naver.com
 
 - **Multimodal Signal Processing Lab** — Research Intern | (Mar 2026 – Present)
 - **BOAZ (AI Club)** — 27th Staff | (Jul 2026 – Present)
-- **KT K.I.T Supporters** — Planning Team | (May 2026 – Present)
+- **SSG Re:Coder** - 12th Mentor | (Sep 2026 - present)
+- **KT K.I.T Supporters** — Planning Team | (May 2026 – Sep 2026)
 - **EQUAL (Accounting Society)** — 44th Staff | (Mar 2026 – Present)
 - **BITAmin (AI Club)** — 16th Staff | (Jul 2025 – Aug 2026)
 - **Korean Standards Association (KSA)** — Standard Certification Education Center Intern | (Jul 2025 – Aug 2025)
