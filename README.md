@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5bc0de,100:3b82f6&height=160&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C7CE,50:F0C9DC,100:E4CFF5&height=160&section=header"/>
 
 ## Hi there, I'm Hyowon 👋
 
@@ -68,4 +68,4 @@ Please feel free to contact me at hyooowon0312@naver.com
   />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5bc0de,100:3b82f6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C7CE,50:F0C9DC,100:E4CFF5&height=120&section=footer"/>
